@@ -1,1 +1,1 @@
-local GHT = "GetHub connection: true"
+GHT = "GetHub connection: true"
