@@ -1,1 +1,1 @@
-# Get-Hub-connection-test
+local GHT = "GetHub connection: true"
