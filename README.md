@@ -1,1 +1,1 @@
-GHT = "GetHub connection: true"
+GHT = true
